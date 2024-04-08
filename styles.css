@@ -32,6 +32,23 @@ img {
   width: 80%;
 }
 
+
+button {
+    background-color: #4ecca3; 
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    border: none; 
+    cursor: pointer;
+    border-radius: 5px; 
+}
+
+
+button:hover {
+    background-color: #4CAF50;
+}
+
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
